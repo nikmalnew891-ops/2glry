@@ -1,0 +1,13 @@
+{
+  "8351827001": {
+    "unique_device_id": "Google|bd52263e-f2c2-45da-b68f-1dcb2f0e0be1",
+    "brand": "Samsung",
+    "model": "SM-G998B",
+    "gpu_renderer": "Adreno (TM) 660",
+    "system_software": "Android OS 12 / API-31",
+    "screen_width": 1080,
+    "screen_height": 2400,
+    "screen_dpi": "359",
+    "memory": 2800
+  }
+}
