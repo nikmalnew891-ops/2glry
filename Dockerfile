@@ -2,7 +2,6 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-# dependency sistem buat kompilasi pycryptodome & protobuf
 RUN apt-get update && apt-get install -y --no-install-recommends \
     gcc \
     libffi-dev \
