@@ -1,0 +1,32 @@
+{
+  "group_id": "34786441",
+  "clan_id": "3095057007",
+  "region": "ID",
+  "created_at": "2026-10-27T06:13:24.913881",
+  "accounts": [
+    {
+      "nickname": "NM-CDX_olaRj",
+      "account_id": "18884431018",
+      "uid": "8352344035",
+      "password": "42231BDF693BE908108297458586E45A6063A9A89138FF37AB0A819F0DEE40AC"
+    },
+    {
+      "nickname": "NM-CDX_kzL13",
+      "account_id": "18884434675",
+      "uid": "8352346803",
+      "password": "27BA6B671D6E36C6FB429A026AEF739235D53B1E8A608BCDED1D1FC384A48FE2"
+    },
+    {
+      "nickname": "NM-CDX_x9RL7",
+      "account_id": "18884438290",
+      "uid": "8352349730",
+      "password": "455A98858E10C7AB72AF0A6D6DE595935265056B5B889810B079215B70944B6F"
+    },
+    {
+      "nickname": "NM-CDX_ftOiY",
+      "account_id": "18884441090",
+      "uid": "8352351718",
+      "password": "432ADC701BB6BDF87F81FA4CCB08CE98BEA226383FD4D45A2DB34A2320B70C69"
+    }
+  ]
+}
